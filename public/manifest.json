@@ -1,0 +1,18 @@
+{
+  "name": "One X Design",
+  "short_name": "One X Design",
+  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icons/apple-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
